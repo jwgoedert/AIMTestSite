@@ -1,3 +1,4 @@
+
 .light-blue{
     color:lightblue;
 }
@@ -5,7 +6,14 @@
 #PageTitle{
     font-size: x-large;
 }
+/* changing title colors and sizes for X reason */
+#HelloWorld{
+    color:orange;
+    font-size:80px;
+    font-weight:1;
+}
 
 #PageInfo{
     font-size: xx-small;
+    color:lightblue;
 }
